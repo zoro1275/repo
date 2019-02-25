@@ -24,7 +24,7 @@ export default class HomeScreen extends React.Component {
               <Body>
                 <Text>wow to talk some awesome people!</Text>
                 <Text>lool</Text>
-
+                <Text>woskskmksn</Text>
               </Body>
             </CardItem>
           </Card>
