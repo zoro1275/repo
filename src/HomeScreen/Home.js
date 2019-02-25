@@ -14,7 +14,7 @@ export default class HomeScreen extends React.Component {
             </Button>
           </Left>
           <Body>
-            <Title>HomeScreen</Title>
+            <Title>HomePage</Title>
           </Body>
           <Right />
         </Header>
@@ -22,7 +22,9 @@ export default class HomeScreen extends React.Component {
           <Card>
             <CardItem>
               <Body>
-                <Text>Chat App to talk some awesome people!</Text>
+                <Text>wow to talk some awesome people!</Text>
+                <Text>lool</Text>
+
               </Body>
             </CardItem>
           </Card>
