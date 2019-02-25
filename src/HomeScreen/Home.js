@@ -23,6 +23,8 @@ export default class HomeScreen extends React.Component {
             <CardItem>
               <Body>
                 <Text>wow to talk some awesome people!</Text>
+                <Text>lool</Text>
+
               </Body>
             </CardItem>
           </Card>
